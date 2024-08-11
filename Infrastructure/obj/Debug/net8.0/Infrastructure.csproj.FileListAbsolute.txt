@@ -13,3 +13,4 @@ C:\Users\Hermann\RiderProjects\Mixvel\Infrastructure\obj\Debug\net8.0\Infrastruc
 C:\Users\Hermann\RiderProjects\Mixvel\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
 C:\Users\Hermann\RiderProjects\Mixvel\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 C:\Users\Hermann\RiderProjects\Mixvel\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Hermann\RiderProjects\Mixvel\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json

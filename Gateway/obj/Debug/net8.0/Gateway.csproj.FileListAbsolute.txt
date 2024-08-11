@@ -44,3 +44,4 @@ C:\Users\Hermann\RiderProjects\Mixvel\Gateway\bin\Debug\net8.0\Microsoft.Extensi
 C:\Users\Hermann\RiderProjects\Mixvel\Gateway\bin\Debug\net8.0\Scrutor.dll
 C:\Users\Hermann\RiderProjects\Mixvel\Gateway\bin\Debug\net8.0\Infrastructure.dll
 C:\Users\Hermann\RiderProjects\Mixvel\Gateway\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Hermann\RiderProjects\Mixvel\Gateway\obj\Debug\net8.0\Gateway.sourcelink.json
